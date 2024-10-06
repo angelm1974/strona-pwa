@@ -1,0 +1,12 @@
+{
+  "routes": [
+    {
+      "route": "/sprzedaz",
+      "methods": [
+        "get"
+      ],
+      "redirect": "https://allegro.pl/oferta/masazer-mezoterapia-rf-ems-krioterapia-ultradzwieki-foton-3-kolory-7w1-10w-14562687788",
+      "statusCode": 301
+    }
+  ]
+}
